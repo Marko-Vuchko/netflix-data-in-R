@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
